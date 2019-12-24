@@ -17,4 +17,4 @@ eureka:
     service-url:
       defaultZone: http://localhost:8888/eureka,http://localhost:9999/eureka
 
-userService: userService_8001      
+userService: userService_8001_new      
